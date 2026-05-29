@@ -8,6 +8,8 @@ coverage/
 .env
 .env.*
 !.env.example
+!.env.local.example
+!backend/.env.local.example
 .DS_Store
 .idea/
 .vscode/
