@@ -11,3 +11,6 @@ coverage/
 .DS_Store
 .idea/
 .vscode/
+FILE_MAP.md
+INFRASTRUCTURE.md
+NOTES_EXPLAINER.md
